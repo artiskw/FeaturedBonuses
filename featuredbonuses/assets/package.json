@@ -1,0 +1,22 @@
+{
+  "name": "featuredbonuses",
+  "version": "2.0.0",
+  "license": "ISC",
+  "scripts": {
+    "watch": "gulp watch",
+    "build": "gulp build"
+  },
+  "dependencies": {
+    "gulp-watch": "5.0.1",
+    "gulp-concat": "2.6.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "2.6.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "gulp-watch": "5.0.1"
+  }
+}
